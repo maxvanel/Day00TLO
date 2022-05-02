@@ -29,4 +29,4 @@ for j in resultat :
 if(a == d and b == e and c == f) :
     print(resultat,"est un nombre d'Amstrong")
 else :
-    print(resultat,"n'est pas un nombre d'Amstrong")
+    print(nbre,"n'est pas un nombre d'Amstrong")
